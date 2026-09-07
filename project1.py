@@ -43,13 +43,13 @@
 
 # ques 4 
 
-# name = str(input("Enter Your Name-"))
-# age = int(input("Enter Your age-"))
+name = str(input("Enter Your Name-"))
+age = int(input("Enter Your age-"))
 
-# if age >= 18:
-#  print("Youre eligible for voting")
-# else: 
-#   print("Sorry you are not eligible")
+if age >= 20:
+ print("Youre eligible for voting")
+else: 
+  print("Sorry you are not eligible")
 
 # ques 5
 
@@ -77,8 +77,7 @@
 #     print("it's a normal year")    
 
 
-a = range(1,20,2)
-print(a)
+
 
 
 
