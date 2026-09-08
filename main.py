@@ -74,7 +74,7 @@
 # a = "DEVANSH"
 
 # for i in range(7):
-#     print(a[5])
+#     print(a[6])
 
 
 
