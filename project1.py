@@ -16,29 +16,29 @@
 # ques 2
 
 
-# m = 'male'
-# j = 'female'
-# g = (input("Enter Your Gender"))
+m = 'male'
+j = 'female'
+g = (input("Enter Your Gender"))
 
-# if g == m:
-#      print("Good Morning Sir")
+if g == m:
+     print("Good Morning Sir")
 
-# elif g == j:
-#      print("Good Morning Mam")
+elif g == j:
+     print("Good Morning Mam")
 
-# else:
-#     print("Youre welcome")
+else:
+    print("Youre not welcome")
 
 
 # ques 3
 
-a = int(input("Enter desired number"))
+# a = int(input("Enter desired number"))
 
 
-if a % 2 == 0:
-    print("It is an even")
-else:
-    print("it is an odd")   
+# if a % 2 == 0:
+#     print("It is an even")
+# else:
+#     print("it is an odd")   
 # 
 
 # ques 4 

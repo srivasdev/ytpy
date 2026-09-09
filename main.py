@@ -64,12 +64,12 @@
 
 # table of any number.
 
-n = int(input("Enter which number's you want to print:-"))
+# n = int(input("Enter which number's you want to print:-"))
 
-a = range(1,11,1)
+# a = range(1,11,1)
 
-for i in a:
-    print(i*n)
+# for i in a:
+#     print(i*n)
 
 # a = "DEVANSH"
 
