@@ -32,7 +32,7 @@
 
 # ques 3
 
-a = int(input("Enter your Number"))
+a = int(input("Enter desired number"))
 
 
 if a % 2 == 0:
