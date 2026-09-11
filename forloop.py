@@ -1,4 +1,4 @@
-a = range(1,20,1)
+a = range(1,30,1)
 
 for i in a:
     print(i)
