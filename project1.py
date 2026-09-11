@@ -17,7 +17,7 @@
 
 
 m = 'male'
-j = 'female'
+j = 'female' 
 g = (input("Enter Your Gender"))
 
 if g == m:
