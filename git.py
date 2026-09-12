@@ -5,12 +5,12 @@
 # for i in a:
 #     print(i*n)
 
-a = range(1,20,1)
+# a = range(1,20,1)
 
-for i in a:
-    print(i)
+# for i in a:
+#     print(i)
 
-a = range(21,-1,-1)
+a = range(15,-1,-1)
 
 for i in a:
     print(i)
