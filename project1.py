@@ -16,18 +16,18 @@
 # ques 2
 
 
-m = 'ladka'
-j = 'ladki' 
-g = (input("Enter Your Gender"))
+# m = 'ladka'
+# j = 'ladki' 
+# g = (input("Enter Your Gender"))
 
-if g == m:
-     print("Good Morning Sir")
+# if g == m:
+#      print("Good Morning Sir")
 
-elif g == j:
-     print("Good Morning Mam")
+# elif g == j:
+#      print("Good Morning Mam")
 
-else:
-    print("Youre not welcome")
+# else:
+#     print("Youre not welcome")
 
 
 # ques 3
