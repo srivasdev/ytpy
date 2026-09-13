@@ -16,8 +16,8 @@
 # ques 2
 
 
-m = 'male'
-j = 'female' 
+m = 'ladka'
+j = 'ladki' 
 g = (input("Enter Your Gender"))
 
 if g == m:
