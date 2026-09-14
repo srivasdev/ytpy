@@ -71,7 +71,7 @@
 # for i in a:
 #     print(i*n)
 
-a = "DEVANSH SRIVASTAVA"
+a = "DEVANSH SRI"
 
 for i in range(7):
     print(a[6])
