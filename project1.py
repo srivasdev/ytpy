@@ -32,13 +32,13 @@
 
 # ques 3
 
-# a = int(input("Enter desired number"))
+a = int(input("Enter desired number"))
 
 
-# if a % 2 == 0:
-#     print("It is an even")
-# else:
-#     print("it is an odd")   
+if a % 2 == 0:
+    print("You are welcome")
+else:
+    print("Access Denied")   
 # 
 
 # ques 4 

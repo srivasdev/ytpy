@@ -76,10 +76,10 @@
 # for i in range(7):
 #     print(a[6])
 
-a = "Maharana"
+# a = "Maharana"
 
-for i in range(8): 
-  print(a[5])
+# for i in range(8): 
+#   print(a[5])
  
 
 
