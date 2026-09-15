@@ -71,10 +71,16 @@
 # for i in a:
 #     print(i*n)
 
-a = "DEVanshsri"
+# a = "DEVanshsri"
 
-for i in range(7):
-    print(a[6])
+# for i in range(7):
+#     print(a[6])
+
+a = "Maharana"
+
+for i in range(8): 
+  print(a[5])
+ 
 
 
 
