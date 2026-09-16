@@ -32,14 +32,14 @@
 
 # ques 3
 
-a = int(input("Enter desired number"))
+# a = int(input("Enter desired number"))
 
 
-if a % 2 == 0:
-    print("You are welcome")
-else:
-    print("Access Denied")   
-# 
+# if a % 2 == 0:
+#     print("You are welcome")
+# else:
+#     print("Access Denied")   
+# # 
 
 # ques 4 
 
