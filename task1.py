@@ -11,9 +11,13 @@
 # print("Total:" , a+b)
 
 
+# a = int(input("Enter first number"))
+# b = int(input("Enter second number"))
+
+# print("Total:" , a-b)
+
 a = int(input("Enter first number"))
 b = int(input("Enter second number"))
 
-print("Total:" , a-b)
-
+print("Total:" , a*b)
     
