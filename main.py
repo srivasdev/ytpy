@@ -82,10 +82,10 @@
 #   print(a[5])
  
 
-a = "Infinix"
+# a = "Infinix"
 
-for i in range(3):
- print(a[2])
+# for i in range(3):
+#  print(a[2])
 
 
 
