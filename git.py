@@ -10,7 +10,7 @@
 # for i in a:
 #     print(i)
 
-a = range(99,-1,-1)
+# a = range(99,-1,-1)
 
-for i in a:
-    print(i)
+# for i in a:
+#     print(i)
