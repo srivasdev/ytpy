@@ -88,6 +88,10 @@
 #  print(a[2])
 
 
+a = "rhythm"
+
+for i in range(5):
+    print(a[3])
 
 
 

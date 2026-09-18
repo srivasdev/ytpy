@@ -5,10 +5,10 @@
 # for i in a:
 #     print(i*n)
 
-a = int(input("Enter pehla number"))
-b = int(input("Enter dusra number"))
+# a = int(input("Enter pehla number"))
+# b = int(input("Enter dusra number"))
 
-print("Total:" , a+b)
+# print("Total:" , a+b)
 
 
 # a = int(input("Enter first number"))
