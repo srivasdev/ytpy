@@ -10,7 +10,7 @@
 # for i in a:
 #     print(i)
 
-a = range(58,-1,-1)
+a = range(89,-1,-1)
 
 for i in a:
     print(i)
