@@ -88,7 +88,7 @@
 #  print(a[2])
 
 
-a = "rhythm"
+a = "python"
 
 for i in range(5):
     print(a[3])
