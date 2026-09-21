@@ -19,7 +19,7 @@
 a = int(input("Enter first number"))
 b = int(input("Enter second number"))
 
-print("Total:" , (a+b)*100)
+print("Total:" , (a+b)*200)
 
 
     
