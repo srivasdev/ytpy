@@ -88,7 +88,7 @@
 #  print(a[2])
 
 
-a = "Computer"
+a = "Laptop"
 
 for i in range(5):
     print(a[3])
