@@ -5,7 +5,7 @@
 # for i in a:
 #     print(i*n)
 
-a = range(1,45,1)
+a = range(1,89,1)
 
 for i in a:
     print(i)
