@@ -88,10 +88,14 @@
 #  print(a[2])
 
 
-a = "Laptop"
+# a = "Laptop"
 
-for i in range(5):
-    print(a[3])
+# for i in range(5):
+#     print(a[3])
+
+a = int(input("Enter first number"))
+b = int(input("Enter second number"))
+print(a+b)
 
 
 
