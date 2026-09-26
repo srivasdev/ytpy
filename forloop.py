@@ -10,5 +10,18 @@
 
 
 
-# for i in range(1,11,1):
+# for i in range(11):
 #     print(i)
+
+# for i in range(-3,-16,-1):
+#     print(i)
+
+# lets print a table of 5
+
+# for i in range(5,51,5):
+#  print(i)
+
+a = int(input("Enter your number:"))
+
+for i in range(a,(a*10)+1,a):
+    print(i)
