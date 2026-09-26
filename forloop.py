@@ -21,7 +21,15 @@
 # for i in range(5,51,5):
 #  print(i)
 
-a = int(input("Enter your number:"))
+# a = int(input("Enter your number:"))
 
-for i in range(a,(a*10)+1,a):
-    print(i)
+# for i in range(a,(a*10)+1,a):
+#     print(i)
+
+# a = "Devansh is a good boy"
+# print(len(a))
+# for i in range(len(a)):
+#     print(a[i])
+
+# for i in a:
+#     print(a)
