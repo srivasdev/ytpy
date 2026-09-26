@@ -12,14 +12,14 @@
 # else:
 #     print("You're eligible for holding license")
 
-a = int(input("Enter your first number:"))
-b = int(input("Enter second number:"))
+# a = int(input("Enter your first number:"))
+# b = int(input("Enter second number:"))
 
-if a > b:
-    print("Greatest number is:" , a)
-elif a < b:
-    print("Greatest number is:" , b)
-else:
-    print("Both are Equal")
+# if a > b:
+#     print("Greatest number is:" , a)
+# elif a < b:
+#     print("Greatest number is:" , b)
+# else:
+#     print("Both are Equal")
 
 
