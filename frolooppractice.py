@@ -35,13 +35,14 @@
 #     sum = sum +i
 # print("sum =" , sum)
 
-a = int(input("Enter your age:-"))
+# a = int(input("Enter your age:-"))
 
-if a < 18:
-   print("You are not free.")
+# if a < 18:
+#    print("You are not free.")
 
-elif a > 18:
-   print("You are free. you have freedom.")   
+# elif a > 18:
+#    print("You are free. you have freedom.")   
 
-else:
-   print("You are free. you have freedom.")
+# else:
+#    print("You are free. you have freedom.")
+
