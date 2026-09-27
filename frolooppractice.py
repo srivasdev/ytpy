@@ -37,10 +37,10 @@
 
 a = int(input("Enter your age:-"))
 
-if a > 18:
+if a < 18:
    print("You are not free.")
 
-elif a < 18:
+elif a > 18:
    print("You are free. you have freedom.")   
 
 else:
