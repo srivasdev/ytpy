@@ -29,8 +29,19 @@
 
 # Q5- sum upto n terms.
 
-a = int(input("Enter the term:-"))
-sum = 0
-for i in range(1,a+1):
-    sum = sum +i
-print("sum =" , sum)
+# a = int(input("Enter the term:-"))
+# sum = 0
+# for i in range(1,a+1):
+#     sum = sum +i
+# print("sum =" , sum)
+
+a = int(input("Enter your age:-"))
+
+if a > 18:
+   print("You are not free.")
+
+elif a < 18:
+   print("You are free. you have freedom.")   
+
+else:
+   print("You are free. you have freedom.")
