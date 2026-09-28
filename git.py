@@ -15,6 +15,6 @@
 # for i in a:
 #     print(i)
 
-a = range(59,159,2)
-for i in a:
-    print(i)
+# a = range(59,159,2)
+# for i in a:
+#     print(i)
