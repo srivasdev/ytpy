@@ -30,7 +30,13 @@
 
 # print("Reverse:-" , reverse)
 
-a = int(input("Enter first number"))
-b = int(input("Enter Second number"))
+# a = int(input("Enter first number"))
+# b = int(input("Enter Second number"))
 
-print(a**b)
+# print(a**b)
+
+a = int(input("Entter the  number"))
+
+for i in range(1,11,1):
+    print(i*a)
+
