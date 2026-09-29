@@ -40,10 +40,10 @@
 # for i in range(1,11,1):
 #     print(i*a)
 
-age = int(input("Enter your age"))
-year = 18 - age
-if age >= 18:
-    print("You are eligible for voting")
-elif age < 18:
-    print("You will be eligible after" , year , "years")
+# age = int(input("Enter your age"))
+# year = 18 - age
+# if age >= 18:
+#     print("You are eligible for voting")
+# elif age < 18:
+#     print("You will be eligible after" , year , "years")
 
