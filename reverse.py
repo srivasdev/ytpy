@@ -35,8 +35,8 @@
 
 # print(a**b)
 
-a = int(input("Entter the  number"))
+# a = int(input("Entter the  number"))
 
-for i in range(1,11,1):
-    print(i*a)
+# for i in range(1,11,1):
+#     print(i*a)
 
