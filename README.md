@@ -24,3 +24,4 @@ day 22 is here finally.
 all things are good. 
 day 23 is here. now a new section named class practice is added.
 day 24 is here. and github is not updating !
+day 25 is here. 
