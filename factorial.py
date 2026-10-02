@@ -1,4 +1,5 @@
 a = int(input("Enter the number:-"))
-fact = 0
-for i in range(1,a+1,1):
-    print(a*i)
+factorial = 1
+for i in range(1,a+1):
+    factorial = factorial * i
+print("Factorial =" , factorial)
