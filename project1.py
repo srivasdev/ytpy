@@ -1,7 +1,7 @@
 # ques 1
 
-a = int(input("Enter 1st Number"))
-b = int(input("Enter 2nd Number"))
+a = int(input("Enter first Number"))
+b = int(input("Enter secoond Number"))
 
 if a > b:
     print("Greatest Number is",a)
