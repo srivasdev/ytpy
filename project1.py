@@ -1,16 +1,16 @@
-# ques 1
+# # ques 1
 
-a = int(input("Enter first Number"))
-b = int(input("Enter secoond Number"))
+# a = int(input("Enter first Number"))
+# b = int(input("Enter secoond Number"))
 
-if a > b:
-    print("Greatest Number is",a)
+# if a > b:
+#     print("Greatest Number is",a)
 
-elif a < b:
-    print("Gratest Number is",b)
+# elif a < b:
+#     print("Gratest Number is",b)
 
-else:
-    print("Both are Equal")    
+# else:
+#     print("Both are Equal")    
 
 
 # ques 2
