@@ -46,5 +46,12 @@
 # else:
 #    print("You are an adult. you have freedom.")
 
+a = int(input("enter your age"))
+
+if a >= 20:
+    print("You are now mature enough.")
+else:
+    print("You are not mature enough.")    
+
 
 
