@@ -5,10 +5,10 @@
 # else:
 #     print("It's an odd number")    
 
-a = int(input("enter the number"))
+# a = int(input("enter the number"))
 
-if a % 2 != 0:
-    print(a , "is an odd number")
-else:
-    print("it's an even number")
+# if a % 2 != 0:
+#     print(a , "is an odd number")
+# else:
+#     print("it's an even number")
 
