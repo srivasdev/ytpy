@@ -8,11 +8,20 @@
 
 # occurance of A in name.
 
-name = str(input("Enter yourr name"))
-count = 0
+# name = str(input("Enter yourr name"))
+# count = 0
 
-for i in name:
-    if i == "A":
-      count += 1
+# for i in name:
+#     if i == "A":
+#       count += 1
 
-print("Occurance of A=" , count)
+# print("Occurance of A=" , count)
+
+
+# reverse of a string.
+
+# a = input("Enter your fav. fruit:-")
+# rev = ""
+# for i in a:
+#     rev = i + rev
+# print("reversed =" , rev)
