@@ -10,7 +10,7 @@
 #     sum = sum + i**2
 # print("Sum =" ,sum)
 
-age = int(input("Enter your umar:-"))
-name = str(input("Enter your naam:-"))
+age = int(input("Enter your age:-"))
+name = str(input("Enter your name:-"))
 
 print("Hi" , name , "You are" , age , "years old.")
