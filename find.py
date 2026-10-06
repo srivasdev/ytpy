@@ -1,2 +1,3 @@
 a = "banana"
-a.find("A")
+a.find("a")
+print(a)
