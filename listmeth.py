@@ -5,7 +5,13 @@
 
 # extend
 
-a =[12,13,14,15]
-b =[18.19]
-a.extend(b)
-print(a)
+# a =[12,13,14,15]
+# b =[18,19]
+# a.extend(b)
+# print(a)
+
+# Aliasing
+A = [1,2,3]
+B =A 
+B[0] = 5
+print(A)
