@@ -26,3 +26,7 @@
 # a.extend(b)
 # print(a)
 
+a = (input("Enter first list elements:-"))
+b = (input("Enter second list elements:-"))
+a.extend(b)
+print("Merged list is =" , a)
