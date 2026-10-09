@@ -21,7 +21,8 @@
 # B[2] = 'Grapes'
 # print(A)
 
-a = ['Bike' , 'Scooty' , 'Car']
-b = [['Truck']]
-a.extend(b)
-print(a)
+# a = ['Bike' , 'Scooty' , 'Car']
+# b = [['Truck']]
+# a.extend(b)
+# print(a)
+

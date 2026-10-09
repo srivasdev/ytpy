@@ -1,3 +1,3 @@
 a = "banana"
-a.find("a")
+a.find('0')
 print(a)
