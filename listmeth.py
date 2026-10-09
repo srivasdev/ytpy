@@ -16,7 +16,12 @@
 # B[0] = 5
 # print(A)
 
-A = ['Mango' , 'Banana' , 'Orange']
-B = A
-B[2] = 'Grapes'
-print(A)
+# A = ['Mango' , 'Banana' , 'Orange']
+# B = A
+# B[2] = 'Grapes'
+# print(A)
+
+a = ['Bike' , 'Scooty' , 'Car']
+b = [['Truck']]
+a.extend(b)
+print(a)
