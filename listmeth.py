@@ -26,3 +26,10 @@
 # a.extend(b)
 # print(a)
 
+#  cloning
+
+a = [2,4,5,7,8,]
+b = a.copy()
+b[0] = 5
+print(a)
+print(b)
