@@ -20,8 +20,9 @@
 
 # reverse of a string.
 
-# a = input("Enter your fav. fruit:-")
-# rev = ""
-# for i in a:
-#     rev = i + rev
-# print("reversed =" , rev)
+a = input("Enter your fav. fruit:-")
+rev = ""
+for i in a:
+    rev = i + rev
+print("reversed =" , rev)
+
