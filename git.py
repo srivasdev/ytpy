@@ -15,6 +15,6 @@
 # for i in a:
 #     print(i)
 
-a = range(59,65,2)
+a = range(59,88,2)
 for i in a:
     print(i)
