@@ -20,7 +20,7 @@
 
 # reverse of a string.
 
-a = input("Enter your fav. cargit:-")
+a = input("Enter your fav. Cartoon name in reverse:-")
 rev = ""
 for i in a:
     rev = i + rev
