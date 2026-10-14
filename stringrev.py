@@ -26,3 +26,5 @@ for i in a:
     rev = i + rev
 print("reversed =" , rev)
 
+
+
