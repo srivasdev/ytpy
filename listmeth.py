@@ -28,8 +28,8 @@
 
 #  cloning
 
-a = [2,4,5,8,12]
-b = a.copy()
-b[0] = 101558798
-print(a)
-print(b)
+# a = [2,4,5,8,12]
+# b = a.copy()
+# b[0] = 101558798
+# print(a)
+# print(b)
