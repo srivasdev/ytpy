@@ -19,6 +19,6 @@
 # for i in a:
 #     print(i)
 
-a =  range(4,51,3)
+a =  range(4,12,3)
 for i in a:
     print(i)
