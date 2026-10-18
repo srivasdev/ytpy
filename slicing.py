@@ -1,4 +1,6 @@
 s = "Python"
-print(s[-1:-7:-1])
-rev
+print(s[-1:-6:-1])
+
+
+
 
