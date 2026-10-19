@@ -8,8 +8,9 @@
 # last = name[space+1:]
 # print(last+" "+first)
 
-name = str(input("Enter your Favourite Car name in Reverse:-"))
 
-for i in name(-1,0,-1):
-    print(i)
+# name reversal
+# name = str(input("Enter your Favourite Car name in Reverse:-"))
+# rev = name[-1::-1]
+# print("Fav. car is:-" , rev)
 
