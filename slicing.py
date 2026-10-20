@@ -25,4 +25,10 @@
 # else:
 #     print("Your name is not palindrome.")
 
-# 
+name = input("Enter your Name:-")
+chk = name[-1::-1]
+
+if chk == name:
+    print("Your name is palindrome.")
+else:
+    print("Your name is not palindrome.")
