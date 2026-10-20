@@ -1,6 +1,6 @@
 this is my python learning stage. I shifted in CSE from Civil engineering so it is bit difficult for me, but im trying my best to cover-up everything.
 this program file is only for testing.
-git push .
+git push.
 its going well.
 day 8 of git push.
 day 9 of git push.
@@ -47,3 +47,5 @@ day 40 is here finally. can not believe.
 day 41 is here.
 day 42 is here. finally!
 day 43 is here. finally!
+day 44 is  here. finally! 
+hurray !s
