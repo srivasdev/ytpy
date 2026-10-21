@@ -20,11 +20,11 @@
 
 # reverse of a string.
 
-# a = input("Enter your fav. name in reverse:-")
-# rev = ""
-# for i in a:
-#     rev = i + rev
-# print("reversed =" , rev)
+a = input("Enter your fav. Title in reverse:-")
+rev = ""
+for i in a:
+    rev = i + rev
+print("reversed =" , rev)
 
 
 
