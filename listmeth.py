@@ -28,8 +28,8 @@
 
 #  cloning
 
-# a = [2,4,5,8,12]
-# b = a.copy()
-# b[0] = 5,88,12
-# print(a)
-# print(b)
+a = [2,4,5,8,12]
+b = a.copy()
+b[0] = 5,88,1288
+print(a)
+print(b)
