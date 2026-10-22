@@ -16,14 +16,14 @@
 
 # check if entered name is palindrome or not.
 
-# name = input("Enter your name:-")
+name = input("Enter your name:-")
 
-# chk = name[-1::-1]
+chk = name[-1::-1]
 
-# if chk == name:
-#     print("Your name  is palindrome.")
-# else:
-#     print("Your name is not palindrome.")
+if chk == name:
+    print("Your name  is palindrome.")
+else:
+    print("Your name is not palindrome.")
 
 # name = input("Enter your Name:-")
 # chk = name[-1::-1]
