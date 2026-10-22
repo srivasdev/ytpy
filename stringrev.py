@@ -20,13 +20,21 @@
 
 # reverse of a string.
 
-a = input("Enter your fav. Title in reverse:-")
-rev = ""
-for i in a:
-    rev = i + rev
-print("reversed =" , rev)
+# a = input("Enter your fav. Title in reverse:-")
+# rev = ""
+# for i in a:
+#     rev = i + rev
+# print("reversed =" , rev)
 
-
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+ x = 121
+    num = str(x)
+    chk = num[-1::-1]
+if chk == num:
+  return True
+else:
+  return False 
 
 
 
