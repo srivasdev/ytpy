@@ -26,15 +26,14 @@
 #     rev = i + rev
 # print("reversed =" , rev)
 
-class Solution:
-    def isPalindrome(self, x: int) -> bool:
- x = 121
-    num = str(x)
-    chk = num[-1::-1]
+
+x = 121
+num = str(x)
+chk = num[-1::-1]
 if chk == num:
-  return True
+  print("True")
 else:
-  return False 
+  print("False") 
 
 
 
