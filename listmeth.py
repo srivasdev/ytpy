@@ -28,9 +28,9 @@
 
 # #  cloning
 
-# a = [2,4,5,8,12]
-# b = a.copy()
-# b[0] = 88
-# print(a)
-# print(b)
+a = [2,4,5,8,12]
+b = a.copy()
+b[0] = 793
+print(a)
+print(b)
 
