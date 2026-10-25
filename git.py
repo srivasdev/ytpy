@@ -19,6 +19,13 @@
 # for i in a:
 #     print(i)
 
-a =  range(4,54,3)
-for i in a:
-    print(i)
+# a =  range(4,54,3)
+# for i in a:
+#     print(i)
+
+
+n = int(input("Enter a 3-digit number"))
+hundreds = n // 100
+tens = (n // 100) % 10
+units = n % 10
+print("Sum od digits =" , hundreds + tens + units)

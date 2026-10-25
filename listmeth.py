@@ -21,15 +21,16 @@
 # B[2] = 'Grapes'
 # print(A)
 
-a = ['Bike' , 'Scooty' , 'Car']
-b = [['Airplane']]
-a.extend(b)
-print(a)
+# a = ['Bike' , 'Scooty' , 'Car']
+# b = [['Airplane']]
+# a.extend(b)
+# print(a)
 
-#  cloning
+# #  cloning
 
-a = [2,4,5,8,12]
-b = a.copy()
-b[0] = 88
-print(a)
-print(b)
+# a = [2,4,5,8,12]
+# b = a.copy()
+# b[0] = 88
+# print(a)
+# print(b)
+
