@@ -30,10 +30,10 @@
 x = 515
 num = str(x)
 chk = num[-1::-1]
-if chk == num:
-  print("True")
-else:
-  print("False")
-
+# if chk == num:
+#   print("True")
+# else:
+#   print("False")
+print(chk)
 
 
