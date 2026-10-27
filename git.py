@@ -24,8 +24,8 @@
 #     print(i)
 
 
-n = int(input("Enter a 3-digit number= "))
-hundreds = n // 100
-tens = hundreds % 10
-units = n % 10
-print("Sum of digits =" , hundreds+tens+units)
+# n = int(input("Enter a 3-digit number= "))
+# hundreds = n // 100
+# tens = hundreds % 10
+# units = n % 10
+# print("Sum of digits =" , hundreds+tens+units)
