@@ -2,11 +2,11 @@
 # print(s[-1:-6:-1])
 
 
-name = str(input("Enter your name:-"))
-space = name.find(" ")
-first =name[0:space]
-last = name[space+1:]
-print(last+" "+first)
+# name = str(input("Enter your name:-"))
+# space = name.find(" ")
+# first =name[0:space]
+# last = name[space+1:]
+# print(last+" "+first)
 
 
 # name reversal
