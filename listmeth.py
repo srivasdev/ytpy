@@ -6,7 +6,7 @@
 # extend
 
 a =[12,13,14,15]
-b =[18,78]
+b =[18,79]
 a.extend(b)
 print(a)
 
