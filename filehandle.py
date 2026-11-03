@@ -6,4 +6,4 @@ b = np.array([9,4,1])
 print(a+b)
 print(a*b)
 
-print(a**b)
+print(a*6)
