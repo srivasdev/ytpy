@@ -4,11 +4,11 @@
 #    else:
 #       print(i)
 
-# for i in range(1,21):
-#    if i == 16:
-#       continue
-#    else:
-#       print(i)
+for i in range(1,21):
+   if i == 9:
+      continue
+   else:
+      print(i)
 
 # for i in range(1,21):
 #   if i == 56:
