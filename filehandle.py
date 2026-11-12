@@ -1,7 +1,7 @@
 import numpy as np
 
 a = np.array([4,7,1])
-b = np.array([1,55,3])
+b = np.array([1,54,3])
 
 print(a+b)
 print(a*b)
