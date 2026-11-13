@@ -30,7 +30,7 @@ print(a)
 
 a = [2,4,5,8,18]
 b = a.copy()
-b[0] = 44
+b[0] = 55
 print(a)
 print(b)
 
