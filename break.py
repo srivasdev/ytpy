@@ -5,7 +5,7 @@
 #       print(i)
 
 for i in range(1,21):
-   if i == 5:
+   if i == 7:
       continue
    else:
       print(i)
