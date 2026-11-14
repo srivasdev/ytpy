@@ -19,7 +19,7 @@
 # for i in a:
 #     print(i)
 
-a =  range(8,15)
+a =  range(8,18)
 for i in a:
     print(i)
 
