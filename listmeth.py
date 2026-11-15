@@ -28,9 +28,19 @@ print(a)
 
 # #  cloning
 
-a = [2,4,5,8,18]
-b = a.copy()
-b[0] = 5
-print(a)
-print(b)
+# a = [2,4,5,8,18]
+# b = a.copy()
+# b[0] = 5
+# print(a)
+# print(b)
+
+# s = input("Enter the character")
+# if s == ("()"):
+#     print(True)
+# elif s == ("[]"):
+#     print(True)
+# elif s == ("{}"):
+#     print(True)
+# else:
+#     print(False)        
 
